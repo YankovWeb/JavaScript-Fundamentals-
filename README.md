@@ -1,4 +1,4 @@
-`rgb(9, 105, 218)`	# JavaScript-Fundamentals-
+rgb(9, 105, 218)	# JavaScript-Fundamentals-
 Skills you will acquire
 Handling the standard functionality of the programming language
 Basics of web development
