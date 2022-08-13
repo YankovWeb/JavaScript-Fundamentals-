@@ -1,0 +1,2 @@
+function solve(data) {}
+solve();
