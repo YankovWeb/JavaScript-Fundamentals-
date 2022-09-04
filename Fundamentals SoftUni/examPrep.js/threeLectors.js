@@ -1,4 +1,4 @@
-function solve(input) {
+function findHourEfficiency(input) {
     let index = 0;
     let first = Number(input[index++]);
     let secound = Number(input[index++]);
